@@ -1,0 +1,30 @@
+#polina button {
+  display: block;
+  width: 80%;
+  padding: .4rem;
+  border: none;
+  margin: 1rem auto;
+  font-size: 1.3rem;
+  background: rgba(255, 255, 255, 0.23);
+  color: #fff;
+  border-radius: 3px;
+  cursor: pointer;
+  -webkit-transition: .3s background;
+  transition: .3s background; }
+#polina button:hover {
+  background: rgba(0, 0, 0, 0.5); }
+#polina p {
+  font: 100% Agenda-Light, Agenda\ Light, Agenda, Arial\ Narrow, sans-serif;
+  color: #fff;
+  margin: 2rem 0;
+  font-size: 1.4rem;
+  text-align: right; }
+#polina ul {
+  margin: 0;
+  padding: 0;
+  text-align: right; }
+  #polina ul li {
+    list-style: none;
+    margin: 10px 0; }
+  #polina ul li:hover {
+    color: #DB8009; }
